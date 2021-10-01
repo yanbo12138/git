@@ -7,5 +7,7 @@ package com.atguigu.git;
 public class Persion {
 
     private String name;
+    private Integer id ;
+
 
 }
