@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("你好2逼！");
         System.out.println("你好啥逼！");
         System.out.println("sc啥逼！");
+        System.out.println("qnmd");
     }
 }
